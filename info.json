@@ -1,0 +1,14 @@
+{
+    "name": "DeadlockStackingForTheDeadBurn",
+    "version": "0.0.1",
+    "title": "Deadlock Stacking for The Dead Burn v17",
+    "author": "billbo99",
+    "contact": "",
+    "homepage": "https://github.com/billbo99/DeadlockStackingForTheDeadBurn",
+    "factorio_version": "0.17",
+    "dependencies": [
+        "base >= 0.17",
+        "TheDeadBurn_v17"
+    ],
+    "description": "Stacking for The Dead Burn v17"
+}
